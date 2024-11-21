@@ -1,1 +1,1 @@
-PCB made for Olin's formula team which displays CAN messages on LCD screen for easier debugging.
+This is a PCB I made for Olin Electric Motorsport which displays CAN bus messages on an LCD screen for debugging purposes.
